@@ -1,4 +1,3 @@
-https://www.youtube.com/watch?v=R5CoqldQMz4
 A Machine Learning Pipeline with Scikit-Learn
 ===
 
@@ -18,3 +17,5 @@ You could browse the IPython notebooks in
 [nbviewer](http://nbviewer.ipython.org/github/bugra/pydata-nyc-2014/tree/master/)
 
 [http://bit.ly/pydata-nyc-2014-deck](http://bit.ly/pydata-nyc-2014-deck)
+
+[https://www.youtube.com/watch?v=R5CoqldQMz4]
